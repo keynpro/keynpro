@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 💬 Ask me about **HTML 5 ,CSS 3,Vue.Js,React.Js,**
+- 💬 Ask me about **HTML 5 ,CSS 3,Vue.Js,React.Js, Next.Js**
 
 - 📫 How to reach me **manzikeyn227@gmail.com**
 
